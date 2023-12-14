@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://Portfolio_website" target="_blank"><img src="examples/Screenshot(13).png">
+    <a href="https://Kurller/Portfolio_website" target="_blank"><img src="examples/Screenshot(13).png">
   </a>
   </kbd>
 </p>
